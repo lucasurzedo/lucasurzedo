@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Lucas 👋
 
-<!--
-**lucasurzedo/lucasurzedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a Computer Science student at UFOP. Worked on the Any.JS project, 
+a RESTful general-purpose computing middleware for cloud environments.
 
-Here are some ideas to get you started:
+Currently I'm working at Tembici as DataOps Engineer using techonologies such as Google Cloud Plataform, Terraform and other tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Worked on
+- <a href="https://github.com/lucasurzedo/Any.JS/">Any.JS: A RESTful general-purpose computing middleware for cloud environments</a>.
+
+### 💻 Working at
+- <a href="https://www.tembici.com.br/pt/">Tembici</a>.
+
+### 💬 Get in touch
+- Linkedin Profile: <a href="https://www.linkedin.com/in/lucasurzedo/">lucasurzedo</a>
+- E-mail: <a href="mailto:lucasurzedo1@gmail.com">lucasurzedo1@gmail.com</a>
