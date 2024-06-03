@@ -9,7 +9,7 @@ Currently I'm working at Tembici as DataOps Engineer using techonologies such as
 - <a href="https://github.com/lucasurzedo/Any.JS/">Any.JS: A RESTful general-purpose computing middleware for cloud environments</a>.
 
 ### 💻 Working at
-- <a href="https://www.tembici.com.br/pt/">Tembici</a>.
+- <a href="https://gringo.com.vc/">Gringo</a>.
 
 ### 💬 Get in touch
 - Linkedin Profile: <a href="https://www.linkedin.com/in/lucasurzedo/">lucasurzedo</a>
